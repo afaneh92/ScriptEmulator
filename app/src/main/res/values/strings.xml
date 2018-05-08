@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Script Emulator</string>
+    <string name="close_shell">Close Shell</string>
+    <string name="async_cmd">ASync CMD</string>
+    <string name="enter_shell_code">Enter shell code</string>
+    <string name="pick_script">Pick Script</string>
+    <string name="clear">Clear</string>
+    <!-- About dialog -->
+    <string name="action_about">About</string>
+    <string name="copyright_info">&#169; Mohammad Afaneh</string>
+    <string name="what_is_safestrap">Script Emulator is a cmd / script emulator. Work as terminal emulator beside shell script executer.</string>
+    <string name="special_thanks">Special Thanks To topjohnwu for his work making libsu library, nbsp-team for all their work making MaterialFilePicker library</string>
+</resources>
